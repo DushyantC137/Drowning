@@ -1,5 +1,5 @@
 # Drowning
-###This was my first Game.
+### This was my first Game.
 
 **A Hyper-casual Game with simple one touch controls**. Save the ball from drowning and dodge 2D obstacles and Redzone at the same time.
 
